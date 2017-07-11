@@ -6,29 +6,25 @@ namespace Vehicles
     {
         private double fuelQuantity;
         private double fuelConsumption;
-        private double tankCapacity;
 
-        public Vehicle(double fuelQuantity, double fuelConsumption, double tankCapacity, double airConditionerFactor, double tankSpecificFactor)
+        public Vehicle(double fuelQuantity, double fuelConsumption, double airConditionerFactor, double tankSpecificFactor)
         {
-            TankCapacity = tankCapacity;
-            FuelQuantity = fuelQuantity;
-            FuelConsumption = fuelConsumption;
-            AirConditionerFactor = airConditionerFactor;
-            TankSpecificFactor = tankSpecificFactor;
+            this.FuelQuantity = fuelQuantity;
+            this.FuelConsumption = fuelConsumption;
+            this.AirConditionerFactor = airConditionerFactor;
+            this.TankSpecificFactor = tankSpecificFactor;
         }
 
-        public double AirConditionerFactor { get; set; }
-        public double TankSpecificFactor { get; }
+        public double AirConditionerFactor { get; }
+        public double TankSpecificFactor { get;  }
 
-        public virtual double FuelQuantity
+        public double FuelQuantity
         {
             get => fuelQuantity;
             set
             {
                 if (value < 0)
-                    throw new ArgumentException("Fuel must be positive number.");
-                if (value > tankCapacity)
-                    throw new ArgumentException("Cannot fit fuel in tank.");
+                    throw new ArgumentException("Fuel Quntity should be positive number.");
                 fuelQuantity = value;
             }
         }
@@ -44,17 +40,6 @@ namespace Vehicles
             }
         }
 
-        public double TankCapacity
-        {
-            get => tankCapacity;
-            set
-            {
-                if (value < 0)
-                    throw new ArgumentException("Tank capacity must be positive number.");
-                tankCapacity = value;
-            }
-        }
-
         public string Drive(double kilometers)
         {
             double fuelNeeded = kilometers * (FuelConsumption + AirConditionerFactor);
@@ -67,8 +52,6 @@ namespace Vehicles
 
         public string Refuel(double quantity)
         {
-            if (quantity <= 0)
-                throw new ArgumentException("Fuel must be positive number.");
             FuelQuantity += quantity * TankSpecificFactor;
             return $"{GetType().Name}: {FuelQuantity:f2}";
         }
