@@ -1,0 +1,6 @@
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.exe.config
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.exe
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.pdb
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.exe
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.pdb

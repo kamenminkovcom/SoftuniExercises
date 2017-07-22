@@ -1,0 +1,6 @@
+C:\Users\Kamen\Documents\Visual Studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\Person\bin\Debug\Person.exe.config
+C:\Users\Kamen\Documents\Visual Studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\Person\bin\Debug\Person.exe
+C:\Users\Kamen\Documents\Visual Studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\Person\bin\Debug\Person.pdb
+C:\Users\Kamen\Documents\Visual Studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\Kamen\Documents\Visual Studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\Person\obj\Debug\Person.exe
+C:\Users\Kamen\Documents\Visual Studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\Person\obj\Debug\Person.pdb

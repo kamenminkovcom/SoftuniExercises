@@ -1,0 +1,6 @@
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\CollectionHierarchy.exe.config
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\CollectionHierarchy.exe
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\CollectionHierarchy.pdb
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\CollectionHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\CollectionHierarchy.exe
+C:\Users\Kamen\documents\visual studio 2017\Projects\OOPAdvanced\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\CollectionHierarchy.pdb
